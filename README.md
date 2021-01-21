@@ -2,7 +2,7 @@
 
 an Arduino auto feeder for my cat.  
 feed one time per hour.  
-not in night(defualt 2h - 9h).  
+but do not at night(defualt 2h - 9h).  
 
 Board: Intel Edison Kit for Arduino  
 Motor: Servomotor SG-90 (to pin6)  
