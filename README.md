@@ -7,14 +7,3 @@ not in night(defualt 2h - 9h).
 Board: Intel Edison Kit for Arduino  
 Motor: Servomotor SG-90 (to pin6)  
 Display: 0.96inch 128*64 OLED (SSD1306 chip)  
-
-Display like this:
-
-+--+     18:36:11  
-|**|  Sleep:2H-9H  
-|**|  Times:12  
-+--+  
-
-+---------------+  
-|*********      |  
-+---------------+  
