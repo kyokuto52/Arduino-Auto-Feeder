@@ -147,8 +147,8 @@ void refreshTime(){
    s = dt->tm_sec;
    if(h<10){h2=" " + String(h);}
    else{h2=String(h);}
-   if(m<10){m2=" " + String(m);}
+   if(m<10){m2="0" + String(m);}
    else{m2=String(m);}
-   if(s<10){s2=" " + String(s);}
+   if(s<10){s2="0" + String(s);}
    else{s2=String(s);}
 }
