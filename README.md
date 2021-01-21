@@ -8,4 +8,4 @@ Board: Intel Edison Kit for Arduino
 Motor: Servomotor SG-90 (to pin6)  
 Display: 0.96inch 128*64 OLED (SSD1306 chip)  
 
-![GitHub Logo](/images/info.jpg)
+![GitHub Logo](/info.jpg)
