@@ -1,7 +1,7 @@
 # Arduino-Auto-Feeder
 
 an Arduino auto feeder for my cat.  
-feed one time per hours.  
+feed one time per hour.  
 not in night(defualt 2h - 9h).  
 
 Board: Intel Edison Kit for Arduino  
